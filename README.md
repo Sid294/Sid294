@@ -44,13 +44,13 @@ PyRecall is an open-source Python package founded by me and my peers that explor
 * GitHub
 * Vercel
 
-## 🎯 Current Focus
+## Current Focus
 
 * Building AI and machine learning applications
 * Contributing to open-source projects
 * Developing scalable web applications
 * Expanding knowledge of software architecture and systems design
 
-## 📫 Connect
+## Connect
 
 Feel free to explore my repositories and projects.
