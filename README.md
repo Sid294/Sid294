@@ -1,3 +1,20 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Atharv+Ranjan+%F0%9F%91%8B;Developer+%C2%B7+Builder;Shipping+real+software+%F0%9F%9A%80;Always+building+something+new+%E2%9A%A1)](https://git.io/typing-svg)
+
+<br/>
+
+<a href="siddharth.lakshminarayanan@gmail.com>
+  <img src="https://img.shields.io/badge/Gmail-siddharth.lakshminarayanan@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Texas%2C%20USA-📍-FF6B35?style=for-the-badge"/>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=Sid294&style=for-the-badge&color=6C63FF&label=PROFILE+VIEWS"/>
+
+</div>
+
+
 # Siddharth Lakshmi Narayanan
 
 > Student Developer | AI/ML Enthusiast | Open Source Contributor
