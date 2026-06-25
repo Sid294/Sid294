@@ -1,20 +1,18 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=6C63FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Siddharth+Lakshmi+Narayanan;AI%2FML+Developer+and+Open+Source+Contributor;Founder+of+PyRecall;Building+Intelligent+Systems+with+Python;Exploring+the+Future+of+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2563EB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Siddharth+Lakshmi+Narayanan;AI%2FML+Developer+and+Open+Source+Contributor;Founder+of+PyRecall;Building+Intelligent+Systems+with+Python;Exploring+the+Future+of+Artificial+Intelligence)](https://git.io/typing-svg)
 
-<br/>
-
-<a href="mailto:siddharth.lakshminarayanan@gmail.com">
-  <img src="https://img.shields.io/badge/📧-siddharth.lakshminarayanan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/Location-Texas%2C%20USA-FF6B35?style=for-the-badge"/>
-
-&nbsp;
-
-<img src="https://img.shields.io/badge/PyRecall-Founder-6C63FF?style=for-the-badge"/>
+<p align="center">
+  <a href="mailto:siddharth.lakshminarayanan@gmail.com">
+    <img src="https://img.shields.io/badge/siddharth.lakshminarayanan%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Irving%2C%20Texas-📍-FF6B35?style=for-the-badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PyRecall-Founder-2563EB?style=for-the-badge" />
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Sid294&style=for-the-badge&color=2563EB&label=PROFILE+VIEWS" />
+</p>
 
 </div>
 
