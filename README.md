@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2563EB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Siddharth+Lakshmi+Narayanan;AI%2FML+Developer+and+Open+Source+Contributor;Founder+of+PyRecall;Building+Intelligent+Systems+with+Python;Exploring+the+Future+of+Artificial+Intelligence)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1200&color=2563EB&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Siddharth+Lakshmi+Narayanan;AI%2FML+Developer+and+Open+Source+Contributor;Founder+of+Pyrecall;Building+Intelligent+Systems+with+Python;Exploring+the+Future+of+Artificial+Intelligence)](https://git.io/typing-svg)
 
 <p align="center">
   <a href="mailto:siddharth.lakshminarayanan@gmail.com">
